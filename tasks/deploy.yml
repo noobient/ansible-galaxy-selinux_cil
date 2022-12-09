@@ -8,7 +8,7 @@
     mode: '0644'
   register: selinux_module
 
-- name: "Install {{ module }} policy module"
+- name: "Install {{ module }} policy module" # noqa no-handler
   command:
     cmd: "semodule -i {{ semodule_dir | default(semodule_default_dir) }}/{{ module }}.cil"
   when: selinux_module.changed
