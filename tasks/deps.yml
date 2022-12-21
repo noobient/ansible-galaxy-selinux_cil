@@ -1,6 +1,6 @@
 ---
 - name: Install SELinux fundamentals
-  yum:
+  dnf:
     name: "{{ packages }}"
     state: latest
   vars:
