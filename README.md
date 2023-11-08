@@ -1,4 +1,4 @@
-# bviktor.selinux_cil
+# noobient.selinux_cil
 
 ## Synopsys
 
