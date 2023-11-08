@@ -14,7 +14,7 @@ This role lets you install SELinux CIL policies.
 
 ```yml
 - include_role:
-    name: bviktor.selinux_cil
+    name: noobient.selinux_cil
   vars:
     module: noobient-nginx
 ```
