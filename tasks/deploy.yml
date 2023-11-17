@@ -1,7 +1,7 @@
 ---
 - name: "Copy {{ module }} policy module"
   template:
-    src: "{{ module }}.cil.j2"
+    src: "{{ custom_src | default(module) }}.cil.j2"
     dest: "{{ semodule_dir | default(semodule_default_dir) }}/{{ module }}.cil"
     owner: root
     group: root

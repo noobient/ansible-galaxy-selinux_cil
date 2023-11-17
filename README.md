@@ -9,6 +9,8 @@ This role lets you install SELinux CIL policies.
 | Name | Required | Example | Description |
 |---|---|---|---|
 | `module` | yes | `noobient-nginx` | Module filename in your `templates` directory without the `.j2` suffix. |
+| `custom_src` | no | `my-module-template` | Use `<custom_src>.cil.j2` as the template file instead of the default `<module>.cil.j2`. Useful when creating multiple modules from the same template file. |
+| `semodule_dir` | no | `/opt/selinux/modules` | Use custom directory for the installed SELinux modules instead of the default `/usr/local/etc/selinux/modules`. |
 
 ## Examples
 
