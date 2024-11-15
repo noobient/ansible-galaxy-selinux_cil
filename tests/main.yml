@@ -4,4 +4,4 @@
     - include_role:
         name: "{{ playbook_dir.split('/')[:-1] | last }}"
       vars:
-        module: noobient-nginx
+        module: noobient-cil-test
