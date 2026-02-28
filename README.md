@@ -43,8 +43,9 @@ N/A
 | Linter | ✅ | [![Lint](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/lint.yml/badge.svg)](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/lint.yml) |
 | AlmaLinux 8 | ✅ | [![AlmaLinux 8](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/almalinux-8.yml/badge.svg)](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/almalinux-8.yml) |
 | AlmaLinux 9 | ✅ | [![AlmaLinux 9](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/almalinux-9.yml/badge.svg)](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/almalinux-9.yml) |
-| Fedora 40 | ✅ | [![Fedora 40](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/fedora-40.yml/badge.svg)](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/fedora-40.yml) |
-| Fedora 41 | ✅ | [![Fedora 41](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/fedora-41.yml/badge.svg)](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/fedora-41.yml) |
-| Ubuntu 20.04 | ❌ | N/A |
+| AlmaLinux 10 | ✅ | [![AlmaLinux 10](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/almalinux-10.yml/badge.svg)](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/almalinux-10.yml) |
+| Fedora 42 | ✅ | [![Fedora 42](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/fedora-42.yml/badge.svg)](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/fedora-42.yml) |
+| Fedora 43 | ✅ | [![Fedora 43](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/fedora-43.yml/badge.svg)](https://github.com/noobient/ansible-galaxy-selinux_cil/actions/workflows/fedora-43.yml) |
 | Ubuntu 22.04 | ❌ | N/A |
 | Ubuntu 24.04 | ❌ | N/A |
+| Ubuntu 26.04 | ❌ | N/A |
